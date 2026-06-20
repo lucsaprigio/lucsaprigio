@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Aprigio 👋</h1>
 
 <p align="center">
-  Desenvolvedor de Software • Delphi • Go • Flutter
+  Engenheiro de Software • Delphi • Go • Typescript • NodeJS
 </p>
 
 <p align="center">
