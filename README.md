@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor com foco em sistemas corporativos e integrações financeiras. Trabalho principalmente com **Delphi** para sistemas legados e novos, **Go** para APIs robustas e de alta performance, e **Flutter** para aplicações mobile. Tenho experiência sólida em integrações com APIs bancárias (Sicredi e Sicoob) e sistemas ERP.
+Engenheiro de Software com foco em sistemas corporativos e integrações financeiras. Trabalho com **Delphi** para sistemas legados e novos, **Go** e **NestJS** para APIs robustas e de alta performance, e **React Native/Expo** para aplicações mobile. Tenho experiência sólida em integrações com APIs bancárias (Sicredi e Sicoob) e sistemas ERP.
 
 ---
 
@@ -24,8 +24,13 @@ Desenvolvedor com foco em sistemas corporativos e integrações financeiras. Tra
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Node & Frameworks
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Integrações Financeiras
 ![Sicredi](https://img.shields.io/badge/API%20Sicredi-009B3A?style=for-the-badge)
